@@ -35,6 +35,7 @@
             </button>
         </div>
         <div class="col-sm-12 mt-2">
+            <div></div>
             <div class="row">
                 <button class="btn btn-primary mr-1" @click="sortByDate">Sort by Date</button>
                 <button class="btn btn-primary" @click="sortByTitle">Sort by Title</button>
