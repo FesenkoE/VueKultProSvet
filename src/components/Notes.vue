@@ -18,7 +18,7 @@
                         type="text"
                         class="form-control"
                         v-model="note.text">
-                <span class="text-danger">{{ validationMessage['text'] }}</span>
+                <span class="text-danger"> {{ validationMessage['text'] }}</span>
             </div>
             <div class="form-group">
                 <label>Note email</label>
